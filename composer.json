@@ -2,7 +2,7 @@
     "name": "example/sf2",
     "description": "Estudo",
     "require": {
-        "symfony/symfony": ">2.3"
+        "symfony/symfony": ">=2.3"
     },
     "license": "MIT",
     "authors": [
